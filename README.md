@@ -15,7 +15,7 @@ The user should be able to:
 https://tranquil-coast-19313.herokuapp.com/
 
 ## Screenshots
-![Screenshot1](Workout-Tracker1.png)
+![Screenshot](Workout_Tracker1.png)
 
-![Screenshot2](Workout-Tracker2.png)
+![Screenshot1](Workout_Tracker2.png)
 
