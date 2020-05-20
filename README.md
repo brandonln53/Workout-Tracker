@@ -11,3 +11,11 @@ The user should be able to:
 - Add new exercises to a new workout plan.
 - View multiple the combined weight of multiple exercises on the stats page.
 
+## Deployment Link
+https://tranquil-coast-19313.herokuapp.com/
+
+## Screenshots
+![Screenshot1](Workout-Tracker1.png)
+
+![Screenshot2](Workout-Tracker2.png)
+
