@@ -3,7 +3,8 @@ let db = require("../models");
 
 mongoose.connect("mongodb://user1:password1@ds133086.mlab.com:33086/heroku_8hwk87w0", {
   useNewUrlParser: true,
-  useFindAndModify: false
+  useFindAndModify: false,
+  useUnifiedTopology: true,
 });
 
 let workoutSeed = [
