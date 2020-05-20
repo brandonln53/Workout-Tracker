@@ -1,10 +1,9 @@
 let mongoose = require("mongoose");
 let db = require("../models");
 
-mongoose.connect("mongodb://user1:password1@ds133086.mlab.com:33086/heroku_8hwk87w0", {
+mongoose.connect("mongodb://localhost/workout", {
   useNewUrlParser: true,
-  useFindAndModify: false,
-  useUnifiedTopology: true,
+  useFindAndModify: false
 });
 
 let workoutSeed = [
